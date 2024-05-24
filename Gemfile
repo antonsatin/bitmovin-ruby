@@ -9,7 +9,7 @@ group :development do
    gem 'rspec-collection_matchers'
 end
 
-gem 'activesupport', '7.0.8'
+gem 'activesupport', '5.2.8'
 
 # Specify your gem's dependencies in bitmovin-ruby.gemspec
 gemspec
